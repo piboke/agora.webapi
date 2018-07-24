@@ -1,0 +1,14 @@
+C:\Users\piotr\Documents\Github\agora\agora.webapi\bin\Debug\netcoreapp2.1\agora.webapi.deps.json
+C:\Users\piotr\Documents\Github\agora\agora.webapi\bin\Debug\netcoreapp2.1\agora.webapi.runtimeconfig.json
+C:\Users\piotr\Documents\Github\agora\agora.webapi\bin\Debug\netcoreapp2.1\agora.webapi.runtimeconfig.dev.json
+C:\Users\piotr\Documents\Github\agora\agora.webapi\bin\Debug\netcoreapp2.1\agora.webapi.dll
+C:\Users\piotr\Documents\Github\agora\agora.webapi\bin\Debug\netcoreapp2.1\agora.webapi.pdb
+C:\Users\piotr\Documents\Github\agora\agora.webapi\obj\Debug\netcoreapp2.1\agora.webapi.csprojAssemblyReference.cache
+C:\Users\piotr\Documents\Github\agora\agora.webapi\obj\Debug\netcoreapp2.1\agora.webapi.csproj.CoreCompileInputs.cache
+C:\Users\piotr\Documents\Github\agora\agora.webapi\obj\Debug\netcoreapp2.1\agora.webapi.RazorAssemblyInfo.cache
+C:\Users\piotr\Documents\Github\agora\agora.webapi\obj\Debug\netcoreapp2.1\agora.webapi.RazorAssemblyInfo.cs
+C:\Users\piotr\Documents\Github\agora\agora.webapi\obj\Debug\netcoreapp2.1\agora.webapi.AssemblyInfoInputs.cache
+C:\Users\piotr\Documents\Github\agora\agora.webapi\obj\Debug\netcoreapp2.1\agora.webapi.AssemblyInfo.cs
+C:\Users\piotr\Documents\Github\agora\agora.webapi\obj\Debug\netcoreapp2.1\agora.webapi.RazorTargetAssemblyInfo.cache
+C:\Users\piotr\Documents\Github\agora\agora.webapi\obj\Debug\netcoreapp2.1\agora.webapi.dll
+C:\Users\piotr\Documents\Github\agora\agora.webapi\obj\Debug\netcoreapp2.1\agora.webapi.pdb
